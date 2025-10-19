@@ -1,7 +1,7 @@
 {
   "name": "El Arte",
   "short_name": "ElArte",
-  "start_url": "/index.html",
+  "start_url": "/elarte",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#6a0dad",
